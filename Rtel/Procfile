@@ -1,0 +1,1 @@
+web gunicorn Rtel.wsgi:application --log-file -
